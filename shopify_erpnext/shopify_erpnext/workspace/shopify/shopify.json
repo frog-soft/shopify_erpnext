@@ -1,0 +1,36 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"wvNHqkeauK\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Shopify Connector For Erpnext</span>\",\"col\":12}},{\"id\":\"L8Czlx2DOF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Base Shopify Setting\",\"col\":3}}]",
+ "creation": "2023-07-18 17:31:57.831087",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "retail",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Shopify",
+ "links": [],
+ "modified": "2023-07-18 17:35:42.084357",
+ "modified_by": "Administrator",
+ "module": "Shopify Erpnext",
+ "name": "Shopify",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 41.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Base Shopify Setting",
+   "link_to": "base_shopify_setting",
+   "type": "DocType"
+  }
+ ],
+ "title": "Shopify"
+}
